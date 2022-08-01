@@ -7,6 +7,7 @@ This tools is based/scraps from https://www.whatsmydns.net/
 
 # Usage
 
+```
 usage: check_domain.py [-h] [-e] [-d DOMAIN] [-a]
 
 optional arguments:
@@ -15,4 +16,4 @@ optional arguments:
   -d DOMAIN, --domain DOMAIN
                         The domain to be checked against
   -a, --availability    Checks if the domain is available
-
+```
