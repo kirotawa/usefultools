@@ -36,7 +36,7 @@ def get_url(opt_type, domain):
         return url
 
     if not url:
-        print("ERROR: while getting the URL")
+        print("ERROR : while getting the URL")
         sys.exit(1)
 
 
